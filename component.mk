@@ -1,0 +1,2 @@
+COMPONENT_SRCDIRS := src driver
+COMPONENT_ADD_INCLUDEDIRS := include driver
